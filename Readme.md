@@ -40,10 +40,6 @@ $ git clone https://github.com/Andre0n/Lista-de-Tarefas-Flask.git
 $ cd Lista-de-Tarefas-Flask
 $ py -m flask run --no-debugger
 ```
-## TOOD
-- Otimizar a Classe tarefa para melhor acesso.
-- Melhorar o layout do bootstrap.
-- Criar tamplates para evitar repetição no HTML.
 
 
 [Python]: https://www.python.org/
